@@ -1,0 +1,22 @@
+.accordion-button{
+    background-color: #eeeeee;
+    border: 1px solid #d1d0d0e3;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: #eeeeee;
+    border: 1px solid #d1d0d0e3;
+    color: #5e5d5dd0;
+    font-weight: bold;
+}
+
+#jumbotron{
+    background-color: #5f5e5e;
+}
+
+.titulo-depoimentos{
+    background-color: #5e5d5dd0;
+    color: #fefefe;
+    margin-bottom: 0;
+    padding: 20px 15px;
+}
