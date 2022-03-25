@@ -20,3 +20,13 @@
     margin-bottom: 0;
     padding: 20px 15px;
 }
+
+.grupo-radio, .contato-select{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.btn-white{
+    background-color: #fefefe;
+}
